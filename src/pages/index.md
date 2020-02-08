@@ -12,7 +12,10 @@ banner:
       is_scrolly: false
       label: Book Now
       url: '#'
-  subtitle: We can help you with your immigration
+  subtitle: |-
+    We can help you with your immigration
+
+    ![](/images/cta.jpg)
   title: Welcome to my consultation Site
 sections:
   - component: Features
