@@ -7,6 +7,11 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
+    - is_huge: true
+      is_primary: true
+      is_scrolly: false
+      label: Book Now
+      url: '#'
   subtitle: We can help you with your immigration
   title: Welcome to my consultation Site
 sections:
